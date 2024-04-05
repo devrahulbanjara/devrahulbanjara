@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ML algorithms**
 
-- 📫 How to reach me **rdbanjara07@gmail.com**
+- 📫 How to reach me : Text me on Linkedin or email at **rdbanjara07@gmail.com**
 
 - ⚡ Fun fact **I am a curious guy 🎈**
 
