@@ -7,6 +7,8 @@
 <p align="left"> <a href="https://twitter.com/devrahulbanjara" target="blank"><img src="https://img.shields.io/twitter/follow/devrahulbanjara?logo=twitter&style=for-the-badge" alt="devrahulbanjara" /></a> </p>
 
 - 🌱 **Diving into Machine Learning**
+  
+- 🧑‍💻 **AI Fellow 2024 at Fusemachines**
 
 - 📫 Contact me @ **rdbanjara07@gmail.com**
 
