@@ -6,13 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/devrahulbanjara" target="blank"><img src="https://img.shields.io/twitter/follow/devrahulbanjara?logo=twitter&style=for-the-badge" alt="devrahulbanjara" /></a> </p>
 
-- 🌱 **Diving into Machine Learning**
   
 - 🧑‍💻 **AI Fellow 2024 at Fusemachines**
 
-- 📫 Contact me @ **rdbanjara07@gmail.com**
-
-- ⚡ Fun fact **I am a curious guy 🎈**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,10 +19,31 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="left"> 
+ <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://editor.analyticsvidhya.com/uploads/339361_iDQvKoz7gGHc6YXqvqWWZQ.png" alt="tensorflow" height="60"/> </a> &#160 &#160 
+ <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/360px-Keras_logo.svg.png" alt="Keras" height="60"/> </a> &#160 &#160 
+ <a href="https://scikit-learn.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" alt="tensorflow" height="55"/> </a> &#160  &#160
+ <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="Numpy" width="50" height="50"/> </a> &#160 
+ <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="Pandas" height="47"/> </a>  &#160 &#160 
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="37" height="37"/> </a> </p>
+<br>
+
+<br><br>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+ <br><br><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devrahulbanjara&show_icons=true&locale=en&layout=compact&theme=dark" alt="devrahulbanjara" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devrahulbanjara&show_icons=true&locale=en&theme=dark" alt="devrahulbanjara" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devrahulbanjara&theme=dark" alt="devrahulbanjara" /></p>
