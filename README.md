@@ -1,3 +1,29 @@
+<h1 align="center"><b>RAHUL DEV BANJARA</b></h1>
+
+<h3 align="center">Aspiring AI Engineer</h3>
+
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:640/1*ZS7xxm9jkGIcRnH3QKs02g.gif" alt="AI gif" />
+</p>
+
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=devrahulbanjara" alt="devrahulbanjara" />
+  </a> 
+</p>
+
+- 🍉 Fun fact **I've been to Stack Overflow even when my code was working perfectly—just to make sure the universe hadn't broken. 😆**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/devrahulbanjara" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devrahulbanjara" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/devrahulbanjara" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devrahulbanjara" height="30" width="40" />
+  </a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
