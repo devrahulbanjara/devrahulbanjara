@@ -48,12 +48,6 @@
     </a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/devrahulbanjara/">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devrahulbanjara&theme=radical"
-            alt="Rahul's GitHub Contribution" />
-    </a>
-</p>
 
 <p>
     <a href="https://github.com/devrahulbanjara/">
