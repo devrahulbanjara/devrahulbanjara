@@ -36,7 +36,7 @@
 </p>
 
 <br />
-<p align="center"> 🍉 Fun fact: **I've been to Stack Overflow even when my code was working perfectly—just to make sure the universe hadn't broken. 😆** </p>
+<p align="center"> 🍉 Fun fact: I've been to Stack Overflow even when my code was working perfectly—just to make sure the universe hadn't broken. 😆</p>
 
 <br />
 
