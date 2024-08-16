@@ -1,68 +1,82 @@
-<h1 align="center"><b>RAHUL DEV BANJARA</b></h1>
+<!-- Intro  -->
+<h3 align="center">
+    <samp>&gt; Hey There!, I am
+        <b><a target="_blank" href="#">Rahul Dev Banjara</a></b>
+    </samp>
+</h3>
 
-<h3 align="center">Aspiring AI Engineer</h3>
+<p align="center">
+    <samp>
+        <br>
+        「 Aspiring AI Engineer 」
+        <br/>
+        <br>
+    </samp>
+</p>
 
+<p align="center">
+    <a href="https://www.linkedin.com/in/devrahulbanjara/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="Rahul" />
+    </a>
+    <a href="https://www.instagram.com/devrahulbanjara/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"
+            alt="Rahul" />
+    </a>
+    <a href="https://www.facebook.com/devrahulbanjara/" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white"
+            alt="Rahul" />
+    </a>
+</p>
+<br />
+
+<!-- About Section -->
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:640/1*ZS7xxm9jkGIcRnH3QKs02g.gif" alt="AI gif" />
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=devrahulbanjara" alt="devrahulbanjara" />
-  </a> 
-</p>
+<br />
+<br />
+<br />
+<br />
 
-- 🍉 Fun fact **I've been to Stack Overflow even when my code was working perfectly—just to make sure the universe hadn't broken. 😆**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/devrahulbanjara" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devrahulbanjara" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/devrahulbanjara" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devrahulbanjara" height="30" width="40" />
-  </a>
+    <a href="https://github.com/devrahulbanjara?tab=repositories" target="_blank">
+        <img alt="All Repositories" title="All Repositories"
+            src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white" />
+    </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> 
-  </a> 
+<br />
+<hr />
+<br />
+
+<p align="center">
+    <a href="https://github.com/devrahulbanjara/">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=devrahulbanjara&theme=radical&border=7F3FBF&background=0D1117"
+            alt="Rahul's GitHub streak" />
+    </a>
 </p>
+
+<p align="center">
+    <a href="https://github.com/devrahulbanjara/">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devrahulbanjara&theme=radical"
+            alt="Rahul's GitHub Contribution" />
+    </a>
+</p>
+
+<p>
+    <a href="https://github.com/devrahulbanjara/">
+        <img alt=""
+            src="https://denvercoder1-github-readme-stats.vercel.app/api?username=devrahulbanjara&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
+            height="192px" width="49.5%" />
+    </a>
+    <a href="https://github.com/devrahulbanjara/">
+        <img alt=""
+            src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=devrahulbanjara&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
+            height="192px" width="49.5%" />
+    </a>
+    <br />
+</p>
+
+![Rahul's Graph](https://github-readme-activity-graph.vercel.app/graph?username=devrahulbanjara&custom&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
