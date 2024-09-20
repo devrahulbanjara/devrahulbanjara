@@ -14,32 +14,14 @@
     </samp>
 </p>
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/devrahulbanjara/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="Rahul" />
-    </a>
-    <a href="https://www.instagram.com/devrahulbanjara/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"
-            alt="Rahul" />
-    </a>
-    <a href="https://www.facebook.com/devrahulbanjara/" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white"
-            alt="Rahul" />
-    </a>
-</p>
 <br />
 
 <!-- About Section -->
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:640/1*ZS7xxm9jkGIcRnH3QKs02g.gif" alt="AI gif" />
+  <img src="https://raw.githubusercontent.com/walidbosso/walidbosso/main/images/ML.gif" alt="AI gif" />
 </p>
 
 <br />
-<p align="center"> 🍉 Fun fact: I've been to Stack Overflow even when my code was working perfectly.</p>
-
-<br />
-
 
 <p align="center">
     <a href="https://github.com/devrahulbanjara/">
