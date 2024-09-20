@@ -14,7 +14,6 @@
     </samp>
 </p>
 
-<br />
 
 <!-- About Section -->
 <p align="center">
