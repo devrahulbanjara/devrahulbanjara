@@ -8,7 +8,7 @@
 <p align="center">
     <samp>
         <br>
-        「 Aspiring AI Engineer 」
+        「 Machine Learning Engineer 」
         <br/>
         <br>
     </samp>
