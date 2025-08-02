@@ -21,7 +21,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&width=600&lines=Building+scalable+AI+Solutions+on+cloud;Python+%7C+AWS+%7C+Docker+%7C+TensorFlow;Always+learning%2C+always+building" alt="About me"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&width=600&lines=Building+scalable+AI+Solutions+on+cloud;Python+%7C+PyTorch+%7C+FastAPI;Always+learning%2C+always+building" alt="About me"/>
 
 </div>
 
